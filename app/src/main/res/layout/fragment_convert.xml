@@ -78,10 +78,10 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginLeft="15dp"
+        android:layout_marginTop="240dp"
         android:layout_marginRight="15dp"
         android:backgroundTint="#090909"
-        android:layout_marginTop="240dp"
-        android:text="Convertion"/>
+        android:text="Convertion" />
 
 
     <com.google.android.material.card.MaterialCardView

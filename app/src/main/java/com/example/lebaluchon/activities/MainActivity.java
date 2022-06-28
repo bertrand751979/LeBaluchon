@@ -53,6 +53,13 @@ public class MainActivity extends AppCompatActivity {
                     selectedFragment = new ForecastFragment();
                     break;
             }
+            /*switch (item.getItemId()) {
+                case R.id.nav_settings:
+                    selectedFragment = new ForecastFragment();
+                    break;
+            }*/
+
+
             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
             return true;
         }

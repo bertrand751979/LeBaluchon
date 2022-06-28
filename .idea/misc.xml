@@ -3,14 +3,26 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="app/src/main/res/layout-land/fragment_convert.xml" value="0.11510416666666666" />
+        <entry key="app/src/main/res/layout-land/fragment_landscape_view.xml" value="0.11243386243386243" />
+        <entry key="app/src/main/res/layout-land/fragment_togo_news.xml" value="0.11243386243386243" />
+        <entry key="app/src/main/res/layout-land/fragment_weather.xml" value="0.11243386243386243" />
+        <entry key="app/src/main/res/layout-land/layout_conv.xml" value="0.19135802469135801" />
         <entry key="app/src/main/res/layout/activity_description.xml" value="0.10572916666666667" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.20018535681186284" />
         <entry key="app/src/main/res/layout/fragment_convert.xml" value="0.19610507246376813" />
         <entry key="app/src/main/res/layout/fragment_error.xml" value="0.1" />
         <entry key="app/src/main/res/layout/fragment_forecast.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_landscape.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/fragment_landscape_view.xml" value="0.165" />
         <entry key="app/src/main/res/layout/fragment_search.xml" value="0.10572916666666667" />
+        <entry key="app/src/main/res/layout/fragment_settings.xml" value="0.1328125" />
         <entry key="app/src/main/res/layout/fragment_togo_news.xml" value="0.25" />
         <entry key="app/src/main/res/layout/fragment_weather.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/layout.xml" value="0.22604166666666667" />
+        <entry key="app/src/main/res/layout/layout_conv.xml" value="0.14990942028985507" />
+        <entry key="app/src/main/res/layout/layout_conv_mode.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/layout_convertion.xml" value="0.1328125" />
         <entry key="app/src/main/res/layout/raw_forecast.xml" value="0.25" />
         <entry key="app/src/main/res/layout/raw_news.xml" value="0.335" />
         <entry key="app/src/main/res/menu/bottom_navigation.xml" value="0.22604166666666667" />
