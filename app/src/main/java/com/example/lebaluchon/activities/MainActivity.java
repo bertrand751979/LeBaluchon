@@ -10,6 +10,7 @@ import android.view.MenuItem;
 import com.example.lebaluchon.R;
 import com.example.lebaluchon.fragments.ConvertFragment;
 import com.example.lebaluchon.fragments.ForecastFragment;
+import com.example.lebaluchon.fragments.SettingsFragment;
 import com.example.lebaluchon.fragments.TogoNewsFragment;
 import com.google.android.material.bottomnavigation.BottomNavigationView;
 
@@ -53,12 +54,11 @@ public class MainActivity extends AppCompatActivity {
                     selectedFragment = new ForecastFragment();
                     break;
             }
-            /*switch (item.getItemId()) {
-                case R.id.nav_settings:
-                    selectedFragment = new ForecastFragment();
+            switch (item.getItemId()) {
+                case R.id.nav_to_set:
+                    selectedFragment = new SettingsFragment();
                     break;
-            }*/
-
+            }
 
             getSupportFragmentManager().beginTransaction().replace(R.id.fragment_container, selectedFragment).commit();
             return true;
